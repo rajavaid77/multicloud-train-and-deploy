@@ -1,1 +1,1 @@
-# multicloud-train-and-deployment
+# multicloud-train-and-deploy
